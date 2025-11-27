@@ -21,6 +21,9 @@ Aquí encontrarás los archivos necesarios para reproducir y entender el anális
 3. **Consulta el reporte**
    - Revisa el archivo `Reporte.pdf` para ver el desarrollo completo del proyecto, análisis y resultados.
 
+4. **Enlace al video**
+   - [Revisa el archivo `Reporte.pdf` para ver el desarrollo completo del proyecto, análisis y resultados.](https://drive.google.com/file/d/15VDXJ1xuPisc3WFZF5twUrEqgCN-xkhQ/view?usp=sharing)
+
 ---
 
 ## Estructura de archivos
